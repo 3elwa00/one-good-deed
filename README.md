@@ -2,11 +2,11 @@ One Good Deed | عمل خير واحد 🌙
 
 One Good Deed is a minimalist Android application designed to encourage daily acts of kindness. In a world that moves fast, this app serves as a silent companion, suggesting one simple, meaningful good deed every day to help build a habit of compassion.
 
-✨ [Visit the Live Website](https://3elwa00.github.io/one-good-deed/)
+✨ [Visit the Live Website](https://PolymathAli.github.io/one-good-deed/)
 
-🚀 [Quick Download](https://github.com/3elwa00/one-good-deed/releases/download/apk/1GoodDeed.apk)
+🚀 [Quick Download](https://github.com/PolymathAli/one-good-deed/releases/download/apk/1GoodDeed.apk)
 
-You can always find the latest version on our [Releases Page](https://github.com/3elwa00/one-good-deed/releases/).
+You can always find the latest version on our [Releases Page](https://github.com/PolymathAli/one-good-deed/releases/).
 
 ✨ Features
 
