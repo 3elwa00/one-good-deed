@@ -32,10 +32,6 @@ This project is open-source! If you have suggestions for new "Good Deeds" or wan
 
 👤 Developer
 
-Ali Nasser
-
-Linktree
-
-GitHub Profile
+[Ali Nasser](https://github.com/3elwa00/one-good-deed/releases/)
 
 “The best of people are those that bring most benefit to the rest of mankind.”
